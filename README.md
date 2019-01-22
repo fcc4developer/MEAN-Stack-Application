@@ -1,6 +1,10 @@
-# Frontend
+# MEAN Stack Application
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.1.
+
+## Node server
+
+cd into /backend folder, run `node server` to run a node server.
 
 ## Development server
 
